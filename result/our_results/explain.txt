@@ -1,0 +1,15 @@
+scene
+time/second
+FPS
+Peak N_GS
+Avg. N_GS
+Final N_GS
+Peak N_GS_3
+Avg. N_GS_3
+Final N_GS_3
+Storage
+SSIM
+PSNR
+LPIPS
+Peak GPU Mem
+Avg. GPUmen
